@@ -1,4 +1,4 @@
-Hi I'm stupid,
+Hi 🖐,
 
 I like to talk about:
 Embedded Stuff 
@@ -16,7 +16,7 @@ Robot Operating System, Autonomous driving
 Python, Pandas, tf1, scikit, opencv, vision and language models
 OpenCl, Cuda, parallel algorithms
 
-I like the lexfridman podcast
+
 
 
 
